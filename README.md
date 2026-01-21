@@ -1,7 +1,7 @@
 # Newton-Raphson Visual: encontre raízes com gráficos interativos
 
 Uma calculadora web que aplica o método de Newton-Raphson com visualizações em tempo real. Digite a função, escolha um chute inicial e veja, passo a passo, como a aproximação converge — com gráficos Plotly, tabela de iterações e exemplos rápidos para começar.
-
+![alt text](image.png)
 ## ✨ Funcionalidades
 - **Entrada livre de funções**: use notação com `x`, potências (`**`), trigonometria, exponenciais e logaritmos.
 - **Iterações detalhadas**: tabela exibe `xₙ`, `f(xₙ)`, `f'(xₙ)` e erro de cada passo.
